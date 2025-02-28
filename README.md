@@ -7,7 +7,7 @@
 
 - Ensure you have python installed to the PATH and PIP is working
 
-- Open install dependencies, no need to elevate it
+- Open [install_dependencies.bat](https://github.com/PandoffYT/Roblox-friends-api/blob/main/install_dependencies.bat), no need to elevate it
 
 ### 2.
 
@@ -19,7 +19,7 @@ Go on someone's profile and copy the numbers in the url bar (1423570595 for inst
 
 ### 3.
 
-Open the main.py, it'll prompt you for a roblox id
+Open the [main.py](https://github.com/PandoffYT/Roblox-friends-api/blob/main/main.py), it'll prompt you for a roblox id
 
 Paste the Roblox User ID in the command prompt and press enter
     
