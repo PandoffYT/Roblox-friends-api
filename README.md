@@ -2,34 +2,34 @@
 A python script that uses the roblox api to spit out a clean list of the desired user id's friends
 (BOTH THE MAIN.PY AND INSTALL_DEPENDENCIES.BAT ARE SAFE)
 
-USAGE (please execute install_dependencies.bat, it pip installs request, pywin32 and winshell)
+### USAGE (please execute install_dependencies.bat, it pip installs request, pywin32 and winshell)
 
 
-    Ensure you have python installed to the PATH and PIP is working
+Ensure you have python installed to the PATH and PIP is working
 
-    Open install dependencies, no need to elevate it
+Open install dependencies, no need to elevate it
 
-    Go on [roblox.com](https://roblox.com)
+Go on [roblox.com](https://roblox.com)
 
-    Go on someone's profile and copy the numbers in the url bar (1423570595 for instance, which is PandemicFiber's profile)
+Go on someone's profile and copy the numbers in the url bar (1423570595 for instance, which is PandemicFiber's profile)
 
-    ![Copy the numbers in the url](./images/url.png)
+![Copy the numbers in the url](./images/url.png)
 
-    Open the main.py, it'll prompt you for a roblox id
+Open the main.py, it'll prompt you for a roblox id
 
-    Paste the Roblox User ID in the command prompt and press enter
+Paste the Roblox User ID in the command prompt and press enter
     
-    ![Prompt for ID](./images/promptforid.png)
+![Prompt for ID](./images/promptforid.png)
 
-    If it worked, you should have a folder on your desktop named SCRIPT_FRIENDS/an output from the terminal
+If it worked, you should have a folder on your desktop named SCRIPT_FRIENDS/an output from the terminal
 
-    ![Output from the terminal](./images/output.png)
+![Output from the terminal](./images/output.png)
 
-    There now should be openable links that leads to the friend's roblox profile
+There now should be openable links that leads to the friend's roblox profile
 
-    ![The folder should look like that](./images/folder.png)
+![The folder should look like that](./images/folder.png)
 
-    You can now press Enter to close the terminal
+You can now press Enter to close the terminal
     
 
 
