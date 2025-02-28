@@ -2,7 +2,7 @@
 A python script that uses the roblox api to spit out a clean list of the desired user id's friends
 (BOTH THE MAIN.PY AND INSTALL_DEPENDENCIES.BAT ARE SAFE)
 
-### USAGE (please execute install_dependencies.bat, it pip installs request, pywin32 and winshell)
+USAGE (please execute install_dependencies.bat, it pip installs request, pywin32 and winshell)
 
 
     Ensure you have python installed to the PATH and PIP is working
