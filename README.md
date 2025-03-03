@@ -31,6 +31,7 @@ Paste the Roblox User ID in the command prompt and press enter
 If it worked, you should have a folder on your desktop named with the target user's id/an output from the terminal
 
 ![Output from the terminal](./images/output.png)
+
 ![Folder with the id](./images/folderid.png)
 (example here from 1423570595, PandemicFiber59's account)
 
