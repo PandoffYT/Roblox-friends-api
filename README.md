@@ -1,7 +1,7 @@
 # Roblox-friends-api
 ## A python script that uses the roblox api to spit out a clean list of the desired user id's friends
 
-### USAGE (please execute install_dependencies.bat before executing the main.py, both files are harmless)
+### USAGE (please execute [install_dependencies.bat](https://github.com/PandoffYT/Roblox-friends-api/blob/main/install_dependencies.bat) before executing the main.py, both files are harmless)
 #### (The output limit is 200, this limitation comes from roblox's api, i'll dive deeper and i'll try to bypass that restriction)
 
 ### 1.
