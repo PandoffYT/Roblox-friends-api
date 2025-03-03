@@ -1,1 +1,0 @@
-This script installs the required python "extensions" for the script to work, make sure you have python installed (Open CMD , if it outputs something like "Python 3.13.2", you're good to go, else install python, and make sure you have python in the path and that pip is working correctly)
