@@ -23,7 +23,7 @@ def create_shortcut(target_url, shortcut_path):
 def main():
     user_id = input("Enter the Roblox user ID: ")
     desktop = os.path.join(os.path.expanduser("~"), "Desktop")
-    folder = os.path.join(desktop, "SCRIPT_FRIENDS")
+    folder = os.path.join(desktop, f"{user_id}")
     
     if not os.path.exists(folder):
         os.makedirs(folder)
