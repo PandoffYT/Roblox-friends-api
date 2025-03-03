@@ -33,6 +33,7 @@ If it worked, you should have a folder on your desktop named with the target use
 ![Output from the terminal](./images/output.png)
 
 ![Folder with the id](./images/folderid.png)
+
 (example here from 1423570595, PandemicFiber59's account)
 
 There now should be openable links that leads to the friend's roblox profile
